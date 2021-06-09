@@ -1,6 +1,6 @@
 ### Nirmal Karthikeyan
 
-![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) 
+
 ----
 
 An undergrad CS student from Coimbatore, India. I am interested in anything to do with operating systems, tech and lately, web development. 
@@ -42,4 +42,4 @@ Feel free to chat with me on discord.
 
 Have a Great Day!
 
-⭐️ From [Daggy1234](https://github.com/Daggy1234)
+⭐️ From [cyberwizard1001](https://github.com/cyberwizard1001)
