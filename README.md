@@ -24,9 +24,6 @@ Skills:
 
 ***
 
-<a href="https://github.com/cyberwizard1001">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyberwizard1001&show_icons=true&hide_border=true" />
-</a>
 
 ---
 
