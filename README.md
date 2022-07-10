@@ -22,6 +22,8 @@ Skills:
 
 -----
 
+Find my writings here: [Medium](https://nirmalkarthikeyan1503.medium.com)
+And my design works (WIP) here: [Figma](https://www.figma.com/file/X93bsTsp0cbsYhn3YV2v7I/Works-I'm-proud-of?node-id=0%3A1)
 
 <a href="https://github.com/cyberwizard1001">
   <img src="https://github-readme-stats.vercel.app/api?username=cyberwizard1001&show_icons=true&hide_border=true" />
