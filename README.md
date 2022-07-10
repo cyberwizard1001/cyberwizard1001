@@ -3,12 +3,16 @@
 
 ----
 
-An undergrad CS student from Coimbatore, India. I am interested in anything to do with operating systems, tech and lately, web development. 
+An undergrad CS student from Coimbatore, India. I am interested in anything to do with UI/UX design, app development operating systems, tech and lately, web development. 
 
 -----
 
 Skills:
 
+- Prototyping tools (figma, XD, etc)
+- Flutter framework
+- Android app development
+- Hackintoshing (openCore)
 - Python, Java and C++ programming
 - Git
 - Web development
